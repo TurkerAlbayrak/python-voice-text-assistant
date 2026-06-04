@@ -1,0 +1,23 @@
+{
+  "openweather_api_key": "APIKEY",
+  "default_city": "YOUR CİTY",
+  "voice": {
+    "engine": "edge",
+    "voice_name": "tr-TR-EmelNeural",
+    "edge_rate": "+0%",
+    "volume": 1.0,
+    "rate": 165
+  },
+  "news_limits": {
+    "turkey": 5,
+    "world": 5,
+    "economy": 5
+  },
+  "request_timeout": 15,
+  "ui": {
+    "theme": "dark",
+    "color_theme": "blue",
+    "auto_briefing_on_start": true,
+    "auto_speak": true
+  }
+}
